@@ -160,8 +160,7 @@ ukoly = {
 # Vypiš jen každé třetí číslo (tedy 0, 3, 6, 9...).
 
 # Prostor pro řešení:
-for cislo in range(0, 31, 3):
-    print(cislo)
+
 
 
 
@@ -176,10 +175,6 @@ for cislo in range(0, 31, 3):
 # Po skončení vypiš: "Start!"
 
 # Prostor pro řešení:
-for cislo in range(10, 0, -1):
-    print(cislo)
-
-print("Start!")
 
 
 
@@ -203,8 +198,6 @@ print("Start!")
 # OBJ-1005
 
 # Prostor pro řešení:
-for cislo in range(1001, 1006):
-    print("OBJ-" + str(cislo))
 
 
 
