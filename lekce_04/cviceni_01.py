@@ -105,7 +105,7 @@ uzivatele = ["Anna", "", "Petr", None, "Lucie"]
 # i neplatné nebo prázdné e-mailové adresy.
 # Nechceš zbytečně odesílat na špatné adresy.
 
-emails = ["info@example.com", "", "admin@", None, "user@gmail.com"]
+emails = ["info@example.com", "", "admin", None, "user@gmail.com"]
 
 # 💡 Úkol:
 # Projdi seznam e-mailů a:
